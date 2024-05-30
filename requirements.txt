@@ -1,0 +1,6 @@
+airflow-code-editor
+black
+fs-s3fs
+fs-gcsfs
+lxml
+beautifulsoup4
